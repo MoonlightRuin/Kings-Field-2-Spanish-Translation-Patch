@@ -2,6 +2,9 @@
 **Juego**: King's Field (US) [SLUS-00158] \
 **Formato**: `.bin`/`.cue` \
 **Formato del parche**: xdelta
+# Sinopsis
+La sagrada espada de luz de luna fue robada. \
+Alexander Galucia Regnas, segundo príncipe del país vecino de Granatyki y amigo cercano de Jean Alfred Forester, se embarca hacia la isla de Melanat para reclamar la Espada Luz de Luna.
 # Acerca de la traducción
 Traducción al español del juego King's Field 2 de FROMSOFTWARE, lanzado afuera de Japón como «King's Field». \
 La traducción está basada ―y busca adaptar― principalmente el texto original en japonés con elementos de la traducción oficial en inglés. \
