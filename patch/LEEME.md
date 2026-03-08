@@ -11,6 +11,7 @@ La traducción está basada ―y busca adaptar― principalmente el texto origin
 Notablemente, los diálogo son de un color diferente al juego original, mi intención con este cambio es evitar que el texto se mezcle con el fondo, como es tan común en el juego.
 # Instalación
 • Asegúrate de crear una copia de respaldo del archivo original. \
+• Descarga el parche: [KF2 en español](https://github.com/MoonlightRuin/Kings-Field-2-Spanish-Translation-Patch/releases) \
 • Descarga [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher)﻿﻿ para aplicar el parche. \
 • En la sección «Original File» selecciona el archivo `.bin` original y en la sección «XDelta patch» selecciona el archivo `KF2_Spanish.xdelta`. \
 • Finalmente, haz click en «Apply» y espera a que finalice el parche (aparecerá una ventanita diciéndote que está listo).
