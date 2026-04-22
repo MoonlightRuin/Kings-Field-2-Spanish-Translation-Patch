@@ -4,7 +4,8 @@ Spanish patch for King's Field 2 by FROMSOFTWARE, released outside of Japan simp
 The translation is based mainly on the original Japanese text with elements from the official English translation. \
 The patch is in xdelta format and should be applied to a `.bin` file of the game.
 
-• [Instrucciones en español](patch/LEEME.md)
+• [Instrucciones en español](patch/LEEME.md) \
+• [King's Field 1 en español](https://github.com/MoonlightRuin/Kings-Field-Spanish-Translation-Patch)
 # Tools used
 [jpsxdec](https://github.com/m35/jpsxdec) \
 [tim2view](https://github.com/lab313ru/tim2view) \
