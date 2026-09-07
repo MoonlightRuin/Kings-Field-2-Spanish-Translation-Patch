@@ -11,7 +11,8 @@ The patch is in xdelta format and should be applied to a `.bin` file of the game
 [tim2view](https://github.com/lab313ru/tim2view) \
 [TIM Viewer](https://www.romhacking.net/utilities/486/) \
 [Kings Field Texture Tool](https://www.romhacking.net/utilities/1063/) \
-[Delta Patcher](https://github.com/marco-calautti/DeltaPatcher)
+[Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) \
+[CDMage](https://www.romhacking.net/utilities/1435/)
 # Screenshots
 ![WIP1](screenshots/screenshot_2.png)
 ![WIP1](screenshots/screenshot_3.png)
